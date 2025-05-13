@@ -45,11 +45,7 @@ Our experiments demonstrate that parallelization yields significant runtime impr
   - Quantized/compact data representations  
   - Adaptive crossover techniques  
 
-## Acknowledgments  
-- Thanks to **Kaggle** for GPU access  
-- Special thanks to **Dr. Smith (University X)** for guidance  
-
-## Contributors  
-- **Parth Vijay** 
-- **Srikar Chaturvedula**  
-- **Sudip Halder** 
+## Contributors
+- **Parth Vijay** – CUDA implementation ([GitHub](https://github.com/CS-parth))
+- **Srikar Chaturvedula** – OpenMP implementation ([GitHub](https://github.com/Srikaludev))
+- **Sudip Halder** – Performance analysis ([GitHub](https://github.com/sudipme))
